@@ -1,2 +1,0 @@
-my_words = ["Hi!", "Python Pro", "Kodland"] 
-print(my_words[1])
